@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Farsan&family=Fasthand&family=Rubik+Iso&display=swap');
+*{
+    font-family: 'Farsan', cursive;
+    font-size: 24px;
+}
+.header{
+    border-bottom:solid 5px #191d23;
+    background-color:#b0b2c6;
+    /* padding: 10px;
+    border-top: 0px; */
+    
+}
+.header p
+{
+border:0px;
+margin:0px;
+}
+/* .header p
+{
+border:0px;
+margin:0px;
+}  */
+img{
+        width: 15px;
+    height: 15px;
+}
+#GCSB{
+    width: 60px;
+    height: 10px;
+}
+}
